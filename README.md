@@ -2,7 +2,6 @@
 
 > Quais bancos da B3 se destacam em valor de mercado, pagamento de dividendos, preço e rentabilidade?
 
-![Painel de análise dos bancos da B3](img/painel_bancos_b3.png)
 
 ## Objetivo
 
@@ -56,15 +55,7 @@ jupyter notebook notebooks/analise_bancos.ipynb
 
 > No notebook, o caminho do CSV deve apontar para `data/statusinvest-busca-avancada.csv`. Depois, execute as células em ordem.
 
-## Estrutura do repositório
 
-```
-├── data/            # base do Status Invest (CSV)
-├── img/             # gráficos exportados
-├── notebooks/       # análise em Jupyter
-├── requirements.txt
-└── README.md
-```
 
 ## Limitações
 
